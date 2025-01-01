@@ -1,0 +1,11 @@
+# Игнорировать системные файлы
+.DS_Store
+Thumbs.db
+
+# Игнорировать каталоги node_modules и logs
+node_modules/
+logs/
+
+# Игнорировать временные файлы
+*.log
+*.tmp
