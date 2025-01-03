@@ -1,6 +1,5 @@
 # main.py
-# new Commit
-# Commit and Push
+
 import asyncio
 import logging
 from aiogram import Bot, Dispatcher
