@@ -9,3 +9,7 @@ logs/
 # Игнорировать временные файлы
 *.log
 *.tmp
+
+services/teak-digit-438912-s0-62fc8e4ecef7.json
+
+
